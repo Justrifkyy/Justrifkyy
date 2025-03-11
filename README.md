@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, React, Angular, Vue.js, Next.js.**
+- 🌱 I’m currently learning **PHP, Laravel,And Native**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **rifky020504@gmail.com**
 

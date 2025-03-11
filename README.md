@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/MuhammadRifkyScania">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="MasterHead">
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Muhammad Rifky Saputra Scania</h1>
 <h3 align="center">Student Of Indonesia Muslim University</h3>
 

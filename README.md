@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rifky Saputra Scania</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&vCenter=true&width=500&lines=Hi+Bro+%F0%9F%91%8B;I'm+Rifky+%F0%9F%A4%98" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">Student Of Indonesia Muslim University</h3>
 
-<p align="center">
+<p align="center"
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="400" alt="Coding">
 </p>
 

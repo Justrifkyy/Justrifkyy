@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Student Of Indonesia Muslim University</h3>
+<h2>Student Of Indonesia Muslim University</h2>
 
 <p align="center"
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="400" alt="Coding">
@@ -15,11 +15,22 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel,And Native**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <h3>Student Of Indonesia Muslim University</h3>
+        <li>🌱 I’m currently learning <b>PHP, Laravel, And Native</b></li>
+        <li>💬 Ask me about <b>PHP</b></li>
+        <li>📫 How to reach me <b>rifky020504@gmail.com</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="450" alt="Coding">
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **PHP**
-
-- 📫 How to reach me **rifky020504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

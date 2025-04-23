@@ -14,6 +14,7 @@
         <li>🌱 I’m currently learning <b>PHP, Laravel, And Native</b></li>
         <li>💬 Ask me about <b>PHP</b></li>
         <li>📫 How to reach me <b>rifky020504@gmail.com</b></li>
+        <li>😁 Iam learning a networking too</b></li>
       </ul>
     </td>
     <td>

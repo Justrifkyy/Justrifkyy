@@ -1,66 +1,80 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&vCenter=true&width=500&lines=Hi+Bro+%F0%9F%91%8B;I'm+Rifky+%F0%9F%A4%98" alt="Typing SVG" />
-  </a>
-</p>
-
-<h2>Student Of Indonesian Muslim University</h2>
-
-<table >
-  <tr>
-    <td>
-      <ul>
-        <h3>Student Of Indonesia Muslim University</h3>
-        <li>🌱 I’m currently learning <b>PHP, Laravel, And Native</b></li>
-        <li>💬 Ask me about <b>PHP</b></li>
-        <li>📫 How to reach me <b>rifky020504@gmail.com</b></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="400"  alt="Coding">
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/justrifkyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justrifkyy_" height="30" width="40" /></a>
-</p>
-
-<h2 align="center">📊 GitHub Stats & Most Used Languages</h2>
-
 <div align="center">
-  <a href="https://github.com/justrifkyy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justrifkyy&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrifkyy&show_icons=true&theme=dark&hide_border=true&layout=compact" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3393FF&center=true&vCenter=true&width=550&lines=Hi+Bro+%F0%9F%91%8B+I'm+Rifky!;Mahasiswa+%26+Full-Stack+Developer!" alt="Typing SVG" />
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RqcjBqZGc4Z3J0MWtqd2M0NnZ0d2ZodXV4cDJscGp1Zmxjb2V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Tech Abstract GIF">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <p align="center">✨ Tentang Saya ✨</p>
+
+- 🌱 Saat ini fokus mendalami **Arsitektur Microservices**.
+- 💬 Terbuka untuk diskusi tentang **PHP, Laravel, RESTful API**, atau apa pun seputar teknologi.
+- 📫 Hubungi saya melalui email: **rifky020504@gmail.com**.
+- 👨‍💻 Lihat semua proyek saya di [github.com/justrifkyy](https://github.com/justrifkyy).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <p align="center">🚀 Tech Stack</p>
+
+<br>
+
+<details>
+  <summary><strong>🖥️ Frontend Development</strong></summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>⚙️ Backend Development</strong></summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" />
+    </a>
+  </p>
+  <p align="center">
+    <i>(Keahlian: RESTful API, Eloquent ORM, Laravel Sanctum)</i>
+  </p>
+</details>
+
+<details>
+  <summary><strong>🛠️ Tools, Platform & DevOps</strong></summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vscode,postman" />
+    </a>
+  </p>
+  <p align="center">
+    <i>(Platform Deployment: cPanel, VPS, Railway)</i>
+  </p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <p align="center">📊 Statistik & Aktivitas GitHub</p>
+
+<div align="center">
+  <a href="https://github.com/justrifkyy">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=justrifkyy&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrifkyy&show_icons=true&theme=dark&hide_border=true&layout=compact" />
+  </a>
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=justrifkyy&theme=dark&hide_border=true" />
 </div>
 
----
 
-<h2 align="center">🚀 Languages and Tools</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### <p align="center">🌐 Mari Terhubung</p>
 
-<div align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-</div>
+<p align="center">
+  <a href="https://instagram.com/justrifkyy_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>

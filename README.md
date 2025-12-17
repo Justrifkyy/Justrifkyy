@@ -67,7 +67,7 @@
   </a>
 </div>
 <div align="center">
-<img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=justrifkyy&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></img>
+<img src="https://streak-stats.demolab.com?user=justrifkyy&theme=dark&hide_border=true" />
 </div>
 
 

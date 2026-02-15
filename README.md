@@ -28,7 +28,7 @@
   <br><br>
   
   <p><b>Frameworks & Architecture Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,nestjs,tailwind,prisma,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,tailwind,bootstrap&perline=8" />
   
   <br>
   

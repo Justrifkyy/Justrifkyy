@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jutrifkyy&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Rifky&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+Docker+%7C+Microservices;System+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3393FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+%7C+Docker+%7C+System+Design;Building+Scalable+Web+Apps;Technopreneur+(Workbyte)" />
 </div>
 
 <br>
 
 <div align="center">
   <p width="600px">
-    Backend Developer focused on <b>Architecture</b>, <b>Scalable Systems</b>, and <b>Clean Code</b>.<br>
-    Building production-ready backend systems using Laravel & Docker.<br>
-    Exploring IoT and embedded systems as side research.
+    👋 <b>Hi, I'm JustRifkyy!</b><br>
+    A 6th-semester <b>Computer Engineering student at UMI</b> (Universitas Muslim Indonesia).<br>
+    I focus on building robust <b>Backend Systems</b>, optimizing <b>Database Architecture</b>, and exploring <b>Microservices</b>.<br>
+    Currently leading tech innovation at <b>Workbyte</b>.
   </p>
 </div>
 
@@ -21,14 +22,35 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <p align="left" width="700px">
-    ▸ <b>Microservices Schedule Management System</b><br>
-    Laravel • Docker • Role-Based Access • Queue Worker • Email Integration<br><br>
-    ▸ <b>IoT Temperature & Humidity Monitoring</b><br>
-    ESP32 • DHT11 • Mobile App Integration • Real-time Monitoring<br><br>
-    ▸ <b>RESTful API with Authentication & Authorization</b><br>
-    Laravel Sanctum • MySQL Optimization • Query Indexing
-  </p>
+  <table border="0" width="100%">
+    <tr>
+      <td>
+        <p>
+          <b>🔹 Workbyte Platform</b><br>
+          Building a digital academic service platform & software house system.<br>
+          <code>Laravel</code> <code>System Design</code> <code>Business Logic</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <b>🔹 Surabaya Sustain</b><br>
+          Smart waste management web application system.<br>
+          <code>Web App</code> <code>Backend Optimization</code> <code>Database Design</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <b>🔹 ICLabs & ISP Management</b><br>
+          Developing management systems for laboratories and internet service providers.<br>
+          <code>Fullstack</code> <code>Management System</code> <code>Automation</code>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -36,9 +58,11 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,github,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker&perline=6" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,arduino,c,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,nginx&perline=6" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap&perline=5" />
 </div>
 
 <br><br>
@@ -47,8 +71,10 @@
 
 <div align="center">
   <a href="https://github.com/justrifkyy">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=justrifkyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrifkyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justrifkyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/justrifkyy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrifkyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   </a>
 </div>
 
@@ -71,10 +97,13 @@
   <a href="mailto:rifky020504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/justrifkyy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" />
 </div>

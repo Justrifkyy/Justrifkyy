@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Rifky&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=justrifkyy&fontSize=70&animation=fadeIn&fontAlignY=32&desc=Beswan%20Djarum%2041%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20Software%20Architect%20%7C%20Lab%20Assistant%20at%20FIKOM%20UMI&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3393FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+%7C+Docker+%7C+System+Design;Building+Scalable+Web+Apps;Technopreneur+(Workbyte)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3393FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Developer;WEB+Developer;Informatic+Student" />
 </div>
 
 <br>
@@ -11,58 +11,29 @@
 <div align="center">
   <p width="600px">
     👋 <b>Hi, I'm JustRifkyy!</b><br>
-    A 6th-semester <b>Computer Engineering student at UMI</b> (Universitas Muslim Indonesia).<br>
-    I focus on building robust <b>Backend Systems</b>, optimizing <b>Database Architecture</b>, and exploring <b>Microservices</b>.<br>
-    Currently leading tech innovation at <b>Workbyte</b>.
+    A 6th-semester <b>Computer Engineering student at UMI</b>.<br>
+    Currently expanding my horizon from <b>Backend</b> to <b>Modern Fullstack Development</b>.<br>
+    I love exploring new tools and building scalable web ecosystems.
   </p>
 </div>
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Current Tech Focus</h2>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td>
-        <p>
-          <b>🔹 Workbyte Platform</b><br>
-          Building a digital academic service platform & software house system.<br>
-          <code>Laravel</code> <code>System Design</code> <code>Business Logic</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>
-          <b>🔹 Surabaya Sustain</b><br>
-          Smart waste management web application system.<br>
-          <code>Web App</code> <code>Backend Optimization</code> <code>Database Design</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>
-          <b>🔹 ICLabs & ISP Management</b><br>
-          Developing management systems for laboratories and internet service providers.<br>
-          <code>Fullstack</code> <code>Management System</code> <code>Automation</code>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker&perline=6" />
+  <p><b>Core Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,go,python,nodejs,html,css&perline=8" />
+  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,nginx&perline=6" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap&perline=5" />
+  
+  <p><b>Frameworks & Architecture Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,nestjs,tailwind,prisma,bootstrap&perline=8" />
+  
+  <br>
+  
+  <p><b>Tools & Databases</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,postgres,docker&perline=7" />
 </div>
 
 <br><br>
@@ -70,20 +41,22 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/justrifkyy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justrifkyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/justrifkyy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justrifkyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
-</div>
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/justrifkyy">
+          <img src="https://streak-stats.demolab.com?user=justrifkyy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justrifkyy&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<div align="center">
-  <a href="https://github.com/justrifkyy">
-    <img src="https://streak-stats.demolab.com?user=justrifkyy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justrifkyy&theme=tokyonight" />
 </div>
 
 <br>

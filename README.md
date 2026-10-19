@@ -65,7 +65,7 @@ const rifky = {
 <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify,aws,gcp,docker,kubernetes,nginx,linux,ubuntu,githubactions,gitlab&perline=12" alt="DevOps" />
 
 ### 🧪 Testing & Quality
-<img src="https://skillicons.dev/icons?i=jest,cypress,postman,eslint,vitest&perline=8" alt="Testing" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,postman,vitest&perline=8" alt="Testing" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,npm,pnpm,yarn,bun,webpack&perline=10" alt="Tools" />

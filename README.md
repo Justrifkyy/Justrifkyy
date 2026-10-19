@@ -1,4 +1,4 @@
-57D<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=justrifkyy&fontSize=70&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20Software%20Architect%20%7C%20Software%20Enggineer%20Enthusiast%20&descAlignY=60&descSize=18" width="100%" />
 </div>
 

@@ -12,7 +12,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=justrifkyy&label=VISITORS&color=0072ff&style=flat-square&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/justrifkyy?style=flat-square&color=0072ff&labelColor=0d1117&logo=github)
 ![Stars](https://img.shields.io/github/stars/justrifkyy?style=flat-square&color=00c6ff&labelColor=0d1117&logo=github)
 ![Repos](https://img.shields.io/github/search/justrifkyy/user:justrifkyy?label=repos&style=flat-square&color=0072ff&labelColor=0d1117)

@@ -8,18 +8,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/justrifkyy?style=flat-square&color=0072ff&labelColor=0d1117&logo=github)
-![Stars](https://img.shields.io/github/stars/justrifkyy?style=flat-square&color=00c6ff&labelColor=0d1117&logo=github)
-![Repos](https://img.shields.io/github/search/justrifkyy/user:justrifkyy?label=repos&style=flat-square&color=0072ff&labelColor=0d1117)
-
-</div>
-
----
-
 ## `~/about.ts`
 
 ```typescript

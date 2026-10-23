@@ -33,28 +33,28 @@ const rifky = {
 
 ## `~/stack.json`
 
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=ts,js,php,dart,go,python,java,kotlin,rust,cpp,c,bash&perline=12" alt="Languages" />
 
-### 🎨 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxt,svelte,angular,tailwind,bootstrap,sass,html,css,vite&perline=12" alt="Frontend" />
 
-### ⚙️ Backend & API
+### Backend & API
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django,flask,spring,graphql,prisma&perline=10" alt="Backend" />
 
-### 📱 Mobile
+### Mobile
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase&perline=8" alt="Mobile" />
 
-### 🗄️ Database & BaaS
+### Database & BaaS
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase&perline=8" alt="Database" />
 
-### ☁️ Cloud, DevOps & Deployment
+### Cloud, DevOps & Deployment
 <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify,aws,gcp,docker,kubernetes,nginx,linux,ubuntu,githubactions,gitlab&perline=12" alt="DevOps" />
 
-### 🧪 Testing & Quality
+### Testing & Quality
 <img src="https://skillicons.dev/icons?i=jest,cypress,postman,vitest&perline=8" alt="Testing" />
 
-### 🧰 Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,npm,pnpm,yarn,bun,webpack&perline=10" alt="Tools" />
 
 ---
@@ -63,14 +63,14 @@ const rifky = {
 
 | Domain | What I do |
 | :-- | :-- |
-| 🧱 **Architecture** | Clean Architecture, MVC / MVVM, modular monolith, REST & GraphQL API design |
-| 🌐 **Web** | SSR / SSG / ISR with Next.js, component-driven UI, responsive and accessible design |
-| 📱 **Mobile** | Cross-platform apps with Flutter: state management, offline-first, push notifications |
-| 🔐 **Auth & Security** | JWT, OAuth, RBAC, row-level security (Supabase), input validation |
-| 🗃️ **Data** | Relational schema design, migrations, indexing, realtime sync |
-| 🚀 **DevOps** | Docker, CI/CD pipelines, edge deployment on Vercel and Cloudflare |
-| 🧪 **Quality** | Unit / integration / e2e testing, code review, linting, Git workflow |
-| 📝 **Process** | Agile / Scrum, UML, API documentation, requirements analysis |
+|  **Architecture** | Clean Architecture, MVC / MVVM, modular monolith, REST & GraphQL API design |
+|  **Web** | SSR / SSG / ISR with Next.js, component-driven UI, responsive and accessible design |
+|  **Mobile** | Cross-platform apps with Flutter: state management, offline-first, push notifications |
+|  **Auth & Security** | JWT, OAuth, RBAC, row-level security (Supabase), input validation |
+|  **Data** | Relational schema design, migrations, indexing, realtime sync |
+|  **DevOps** | Docker, CI/CD pipelines, edge deployment on Vercel and Cloudflare |
+|  **Quality** | Unit / integration / e2e testing, code review, linting, Git workflow |
+|  **Process** | Agile / Scrum, UML, API documentation, requirements analysis |
 
 ---
 
